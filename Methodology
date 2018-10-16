@@ -1,0 +1,3 @@
+Found the best features using XGboost 
+Applied Grid Search on SVC algorithm on the best features only 
+The accuracy obtained was around 98 percent
